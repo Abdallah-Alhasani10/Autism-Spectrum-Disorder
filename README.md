@@ -58,5 +58,5 @@ It involves data preprocessing, EDA, feature encoding, outlier handling, balanci
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/asd-prediction.git
+   git clone https://github.com/Abdallah-Alhasani10/Autism-Spectrum-Disorder.git
    cd asd-prediction
